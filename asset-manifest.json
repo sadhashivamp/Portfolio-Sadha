@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Sadha/static/css/main.0769fefb.css",
+    "main.js": "/Portfolio-Sadha/static/js/main.1563e84d.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio-Sadha/static/js/453.1407b060.chunk.js",
+    "static/media/MyPic_3.png": "/Portfolio-Sadha/static/media/MyPic_3.a56512b475287feb45ba.png",
+    "static/media/About.png": "/Portfolio-Sadha/static/media/About.606b91ff88315cc96054.png",
+    "static/media/VOD.png": "/Portfolio-Sadha/static/media/VOD.2205e03d2da67c1156dd.png",
+    "static/media/R e s u m e.pdf": "/Portfolio-Sadha/static/media/R e s u m e.c80b8610a99b74b7d86b.pdf",
+    "static/media/JOB.png": "/Portfolio-Sadha/static/media/JOB.b9831f8d5592025a0d33.png",
+    "static/media/LMS.png": "/Portfolio-Sadha/static/media/LMS.f0ef2da035c14c629ca1.png",
+    "index.html": "/Portfolio-Sadha/index.html",
+    "main.0769fefb.css.map": "/Portfolio-Sadha/static/css/main.0769fefb.css.map",
+    "main.1563e84d.js.map": "/Portfolio-Sadha/static/js/main.1563e84d.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio-Sadha/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0769fefb.css",
+    "static/js/main.1563e84d.js"
+  ]
+}
