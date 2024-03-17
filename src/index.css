@@ -103,7 +103,8 @@ span {
 
 .home-img img {
     width: 25vw;
-    border-radius: 50%;
+    max-height: 460px;
+    border-radius: 100%;
     animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -563,5 +564,10 @@ span {
 
     .services-container {
         width: 100%;
+    }
+
+    .home-img img {
+        max-height: 360px;
+        border-radius: 100%;
     }
 }
