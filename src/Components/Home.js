@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import ScrollReveal from 'scrollreveal';
 import Typed from 'typed.js';
-import Resume from "../Resume/R e s u m e.pdf";
+import Resume from "../Resume/sadha_resume.pdf";
 import HomeImage from "../Images/Home_Sadha.jpeg";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
