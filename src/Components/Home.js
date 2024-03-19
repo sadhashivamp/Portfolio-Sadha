@@ -5,7 +5,7 @@ import Resume from "../Resume/sadha_resume.pdf";
 import HomeImage from "../Images/Home_Sadha.jpeg";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faFacebook, faTwitter, faLinkedin, faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faFacebook, faTwitter, faLinkedin, faInstagram, faGithub  } from '@fortawesome/free-brands-svg-icons';
 
 function Home() {
 
@@ -51,10 +51,10 @@ function Home() {
                 <p>Responsible for designing and implementing user interfaces, ensuring responsiveness, performance, and
                     cross-browser compatibility, while collaborating closely with design and backend teams.</p>
                     <div className="social-media">
+                    <a href="https://github.com/sadhashivamp/Portfolio-Sadha"><FontAwesomeIcon icon={faGithub} /></a>
                     <a href="https://www.facebook.com/sadhashivampendem/"><FontAwesomeIcon icon={faFacebook} /></a>
                     <a href="https://www.linkedin.com/in/sadha-shivam-pendem-673797146/"><FontAwesomeIcon icon={faLinkedin} /></a>
                     <a href="https://twitter.com/sadha0601"><FontAwesomeIcon icon={faTwitter} /></a>
-                    <a href="https://www.instagram.com/nethasadha/"><FontAwesomeIcon icon={faInstagram} /></a>
                 </div>
                 <a href={Resume} className="btn" download>Download CV</a>
             </div>
